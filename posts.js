@@ -19,6 +19,13 @@ const publicaciones = [
     archivo: "entradas/factorizaciones.js",
     fecha: "2026-10-22",
     resumen: "Factorizaciones y su solución."
+  },
+     {
+    id: "04pn",
+    titulo: "Ecuaciones de primer grado",
+    archivo: "entradas/ecuaciones.js",
+    fecha: "2026-10-22",
+    resumen: "Ecuaciones con una incógnita y su procedimiento."
   }
    
 ];
