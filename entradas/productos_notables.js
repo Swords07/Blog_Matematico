@@ -3,7 +3,7 @@ contenidoEntrada = `
     <h2>Productos notables</h2>
     <p>Una variedad específica de binomios, de los cuales ya tenemos una forma
     fácil de resolverlos.</p>
-   <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; margin: 20px 0; font-size: 15px; line-height: 1.5;">
+   <table style="width: 100%; min-width: 900px; border-collapse: collapse; font-family: Arial, sans-serif; margin: 20px 0; font-size: 15px; line-height: 1.5;">
   <thead>
     <tr style="background-color: #e3f2fd; color: #0d47a1; text-align: left;">
       <th style="padding: 12px 15px; border-bottom: 2px solid #90caf9; width: 15%;">Producto Notable</th>

@@ -4,28 +4,32 @@ const publicaciones = [
     titulo: "Productos Notables",
     archivo: "entradas/productos_notables.js",
     fecha: "2026-10-13",
-    resumen: "Productos notables y sus algoritmos de resolución."
+    resumen: "Productos notables y sus algoritmos de resolución.",
+    fondo: "notables.png"
   },
    {
     id: "02pn",
     titulo: "Factorización",
     archivo: "entradas/copia_productos.js",
     fecha: "2026-10-13",
-    resumen: "Productos notables y su solución."
+    resumen: "Productos notables y su solución.",
+    fondo: "factorizaciones.png"
   },
      {
     id: "03pn",
     titulo: "Factorización II",
     archivo: "entradas/factorizaciones.js",
     fecha: "2026-10-22",
-    resumen: "Factorizaciones y su solución."
+    resumen: "Factorizaciones y su solución.",
+    fondo: "factorizaciones.png"
   },
      {
     id: "04pn",
     titulo: "Ecuaciones de primer grado",
     archivo: "entradas/ecuaciones.js",
     fecha: "2026-10-22",
-    resumen: "Ecuaciones con una incógnita y su procedimiento."
+    resumen: "Ecuaciones con una incógnita y su procedimiento.",
+    fondo: "ecuacion.png"
   }
    
 ];
